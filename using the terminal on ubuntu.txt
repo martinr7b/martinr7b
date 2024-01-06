@@ -1,0 +1,7 @@
+hi there, ubuntu user
+today i am going to teach you how to use the terminal on ubuntu
+
+1.installing an app 
+to install an app you can use this:
+sudo apt install APPNAME
+replace APPNAME with the name of the program you want to install (the name might differ from the actual name of the program)
